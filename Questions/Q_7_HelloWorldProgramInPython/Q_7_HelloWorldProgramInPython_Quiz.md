@@ -82,4 +82,62 @@ d) All of the above
 
 **Description** 
 
-a)
+a) Vim is a text editor for Unix that comes with Linux, BSD, and macOS.
+
+b) Google chrome is a web browser.
+
+c) Notepad is a text editor in windows.
+
+d) All are not correct.
+
+---
+---
+
+
+5 : What is the extension of Python programs?  
+
+a) .py  
+b) .txt  
+c) XML  
+d) None of the above  
+
+**Answer** a) 
+
+**Description** 
+
+a) .py is the extension of Python programs.
+
+b) .txt is the extension of Text files.
+
+c) XML is a general - purpose markup language.
+
+d) It is not correct.
+
+---
+---
+
+
+6 : Shortcut key to save a program is _______  
+
+a) Ctrl + S  
+b) Ctrl + V  
+c) Ctrl + C  
+d) None of the above  
+
+**Answer** a) 
+
+**Description** 
+
+a) Ctrl + S is the shortcut key to save something.  
+
+b) Ctrl + V is the shortcut key to paste something.  
+
+c) Ctrl + C is the shortcut key to copy something.  
+
+d) It is not correct.  
+
+---
+---
+
+
+
