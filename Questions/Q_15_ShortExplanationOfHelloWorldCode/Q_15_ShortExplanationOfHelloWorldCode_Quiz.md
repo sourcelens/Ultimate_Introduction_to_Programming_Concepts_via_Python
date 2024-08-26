@@ -48,6 +48,29 @@ d) Parenthesis () is required after print.
 ---
 
 
-3 : 
+3 : The entity ‘print’ in the Python program print (“hello world”) is called _______
+
+a) Function  
+b) Library  
+c) String  
+d) None of the above  
+
+**Answer** a) 
+
+**Description**
+
+a) The entity ‘print’ is defined in Python as a Function.
+
+b) Print is a function in python not library.  
+
+c) “hello world” here is the string literal which we are printing.
+
+d) The entity ‘print’ is defined in Python as a Function.  
+
+---
+---
+
+
+4 : 
 
 
