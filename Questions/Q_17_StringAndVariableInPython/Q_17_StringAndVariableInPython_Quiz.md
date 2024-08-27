@@ -50,10 +50,10 @@ d) It is not correct.
 
 3 : How a Break point works?
 
-a) Breaks the complete program
-b) Ends the program
-c) Closes the program
-d) Breaks the program at a particular point in time  
+a) Breaks the complete program  
+b) Ends the program  
+c) Closes the program  
+d) Breaks the program at a particular point in time    
 
 **Answer** b) 
 
@@ -74,9 +74,9 @@ d) Break point stops the execution of the line, to which it is inserted, till ge
 4 : Step over button in VS code is to _______
 
 a) Just execute the immediate next line  
-b) Execute rest of the program
-c) Execute previous line of the program
-d) None of the above  
+b) Execute rest of the program  
+c) Execute previous line of the program  
+d) None of the above    
 
 **Answer** a) 
 
