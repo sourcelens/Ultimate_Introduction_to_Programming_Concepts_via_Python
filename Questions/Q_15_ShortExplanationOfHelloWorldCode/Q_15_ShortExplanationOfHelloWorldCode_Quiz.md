@@ -71,6 +71,52 @@ d) The entity ‘print’ is defined in Python as a Function.
 ---
 
 
-4 : 
+4 : The entity “hello world” in the Python program print (“hello world”) is called _______  
+
+a) Function  
+b) Subroutine  
+c) String  
+d) Both a) & b)  
+
+**Answer** c) 
+
+**Description**
+
+a) Function or Subroutine in Python are the ones which are already defined in Python for certain specific purposes. Eg:- print (), input () etc.
+
+b) Function or Subroutine in Python are the ones which are already defined in Python for certain specific purposes. Eg:- print (), input () etc.
+
+c) “hello world” which is inside quotes here is the string literal, which we are printing.
+
+d) Function or Subroutine in Python are the ones which are already defined in Python for certain specific purposes. Eg:- print (), input () etc.
+
+---
+---
+
+
+5 : Execution of a Python program is generally from _______  
+
+a) Top to bottom  
+b) Bottom to top  
+c) Both of the above  
+d) None of the above  
+
+**Answer** a) 
+
+**Description**
+
+a) Execution of a Python program is generally from top to bottom one after the other, but there are exceptions.
+
+b) Execution is not from bottom to top.
+
+c) Both are not correct.
+
+d) It is not correct.
+
+---
+---
+
+
+
 
 
