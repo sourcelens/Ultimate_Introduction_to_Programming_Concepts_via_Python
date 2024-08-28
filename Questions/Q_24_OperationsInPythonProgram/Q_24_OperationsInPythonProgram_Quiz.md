@@ -1,4 +1,4 @@
-----
+---
 ---
 
 1 : c = a + b          In the above code which one is correct?  
@@ -126,13 +126,53 @@ b) False
 
 **Description**
 
-In the above code ‘ &gt; ‘ is a comparison operator. It checks whether a is greater than b. Here a is 20 &amp; b is 15. So Boolean value of i will be true.
+In the above code ‘ > ‘ is a comparison operator. It checks whether a is greater than b. Here a is 20 &amp; b is 15. So Boolean value of i will be true.
 
 ---
 ---
 
 
-8 : 
+8 : Automatic conversion to float in division will happen in which of the following language/s?  
+
+a) C  
+b) Python  
+c) Both of the above  
+d) None of the above  
+
+**Answer** b)   
+
+**Description**
+
+This happens in Python. It is the magic of the language Python. It finds that you are doing a division and decimal points may be needed.  
+
+---
+---
+
+
+9 : a = 20
+
+b = 15
+
+j = a < b
+
+What will be the Boolean value of j in the above Python code? 
+
+a) True    
+b) False      
+
+**Answer** b)   
+
+**Description**
+
+In the above code ‘ < ‘ is a comparison operator. It checks whether a is less than b. Here a is 20 &amp; b is 15, so a is not less than b. So Boolean value of j will be false.
+
+---
+---
+
+
+
+
+
 
 
 
