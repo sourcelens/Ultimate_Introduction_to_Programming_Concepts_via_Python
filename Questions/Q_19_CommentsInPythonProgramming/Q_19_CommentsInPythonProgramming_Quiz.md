@@ -117,5 +117,5 @@ d) It is not correct.
 ---
 
 
-6 : 
+
 
