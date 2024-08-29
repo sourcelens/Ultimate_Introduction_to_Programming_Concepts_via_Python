@@ -91,7 +91,7 @@ c)  def function1 :
 
 d)  def function1 () :
 
-print ( “Inside function1” )  
+    print ( “Inside function1” )  
 
 **Answer** a) 
 
