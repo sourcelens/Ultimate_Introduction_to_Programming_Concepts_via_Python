@@ -119,6 +119,39 @@ When Line 4 and Line 10 are evaluated to false Line 13 will be executed.
 
 
 ```
+raintoday = 0
+indoor_badminton_court = True
+tennis_court_is_booked = False
+if (raintoday == 1):
+    print( " Rain is there we need to play indoor games" )
+    if( indoor_badminton_court == True):
+        print("Lets play Badminton")
+    else:
+        print("Lets play Chess")
+elif(tennis_court_is_booked == True):
+    print("Lets play Tennis")
+else:
+    print("Lets go for Jogging")
+```
+
+5 : What will be the output of the above program?  
+
+a) Lets go for Jogging  
+b) Lets play Badminton  
+c) Lets play Chess  
+d) None of the above  
+
+**Answer** a) 
+
+**Description**
+
+It will print Line 13. Because the first condition is evaluated to false in Line 4 and the second condition in Line 10 is also evaluated False. So, Line 13 will get executed and it will print Lets go for Jogging.  
+
+---
+---
+
+
+
 
 
 
