@@ -130,6 +130,145 @@ This is the method to print all the keys in the dictionary.
 
 
 ```
+employdetails = {
+      "name":"James",
+      "number":"123456",
+      "Address":"Test address, NSW 1234"
+      }
+
+print(employdetails["Address"])
+```
+
+7 : What will be the output of the above program?  
+
+a) Will print the value of address   
+b) Will print the value of name   
+c) Nothing will get printed   
+d) None of the above  
+
+ **Answer** a) 
+
+**Description**
+
+This line print(employdetails["Address"]) accesses the value associated with the key "Address" in the employdetails dictionary and prints it to the console. When you run the code with the print(employdetails["Address"]) statement, it will output "Test address, NSW 1234" because that is the value stored in the dictionary under the key "Address".
+
+---
+---
+
+
+```
+employdetails = {
+      "name":"James",
+      "number":"123456",
+      "Address":"Test address, NSW 1234"
+      }
+
+print(employdetails["name"])
+```
+
+8 : What will be the output of the above code?  
+
+a) Will print the value of address   
+b) Will print the value of name   
+c) Nothing will get printed  
+d) None of the above  
+
+ **Answer** b) 
+
+**Description**
+
+This line print(employdetails["name"]) accesses the value associated with the key "name" in the employdetails dictionary and prints it to the console. When you run the code with the print(employdetails["name"]) statement, it will output "James" because that is the value stored in the dictionary under the key "name".  
+
+---
+---
+
+
+```
+employdetails = {
+      "name":"James",
+      "number":"123456",
+      "Address":"Test address, NSW 1234"
+      }
+```
+
+9 : What will happen if we add the below lines after the dictionary and execute the code?
+
+```
+employdetails.pop ("number")
+```
+
+a) The element number will be removed  
+b) The element name will be removed   
+c) The element Address will be removed   
+d) None of the above  
+
+ **Answer** a) 
+
+**Description**
+
+adding employdetails.pop("number") removes the "number" key-value pair from the employdetails dictionary.
+
+---
+---
+
+
+```
+employdetails = {
+      "name":"James",
+      "number":"123456",
+      "Address":"Test address, NSW 1234"
+      }
+
+employdetails.pop ("name")
+```
+
+10 : What will be the output of the code?  
+
+a) The element number will be removed   
+b) The element name will be removed   
+c) The element Address will be removed   
+d) None of the above   
+
+ **Answer** b) 
+
+**Description**
+
+adding employdetails.pop("name") removes the "name" key-value pair from the employdetails dictionary.  
+
+---
+---
+
+
+```
+employdetails = {
+      "name":"James",
+      "number":"123456",
+      "Address":"Test address, NSW 1234"
+      }
+```
+
+11 : What will happen if we add the below line after the dictionary and execute the code?
+
+```
+employdetails.pop ("Address")
+```
+
+a) The element number will be removed   
+b) The element name will be removed   
+c) The element Address will be removed   
+d) None of the above  
+
+ **Answer** c) 
+
+**Description**
+
+adding employdetails.pop("Address") removes the "Address" key-value pair from the employdetails dictionary.  
+
+---
+---
+
+
+
 
 
 
