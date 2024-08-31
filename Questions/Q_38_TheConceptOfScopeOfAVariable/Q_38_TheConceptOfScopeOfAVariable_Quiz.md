@@ -1,1 +1,174 @@
+---
+---
+
+
+1 : What are different kind of scopes?  
+
+a) Local scope  
+b) Global scope   
+c) Both of the above   
+d) None of the above  
+
+**Answer** c) 
+
+**Description** 
+
+In Python, scopes determine the visibility and lifetime of variables.They include local scope, global scope, and several other types of scopes.  
+
+---
+---
+
+
+```
+testvariable = 10
+def function1 ():
+    print("Inisde function1")
+    testvariable = 1000
+    print(testvariable)
+function1()
+print(testvariable)
+```
+
+2 : In the above program which test variable has global scope?  
+
+a) Line 1   
+b) Line 4   
+c) Both of the above   
+d) None of the above  
+
+**Answer** c) 
+
+**Description**
+
+In Line 1 testvariable = 10 has global scope. In Line 4, testvariable has only local scope, that is it will be available only within the function. Line 1 testvariable is available outside the function and have global scope.  
+
+---
+---
+
+
+```
+testvariable = 10
+def function1 ():
+    print("Inisde function1")
+    testvariable = 1000
+    print(testvariable)
+function1()
+print(testvariable)
+```
+
+3) In the above program which test variable has local scope?  
+
+a) Line 1   
+b) Line 4   
+c) Both of the above   
+d) None of the above  
+
+**Answer** b) 
+
+**Description**
+
+In Line 1 testvariable = 10 has global scope. In Line 4, testvariable has only local scope, that is it will be available only within the function. Line 1 testvariable is available outside the function and have global scope.  
+
+---
+---
+
+
+```
+testvariable = 10
+def function1 ():
+    print("Inisde function1")
+    testvariable = 1000
+    print(testvariable)
+function1()
+print(testvariable)
+```
+
+4 : What is the output of Line 7?  
+
+a) 10  
+b) 1000   
+c) Both a) & b)   
+d) 1010  
+
+**Answer** a) 
+
+**Description**
+
+testvariable = 10 has global scope, that is outside the function. So, while printing outside the function 10 will get printed.  
+
+---
+---
+
+
+5 : We can access global variable within a function.  
+
+a) True  
+b) False  
+
+**Answer** a) 
+
+**Description**
+
+To access global variable inside a function we have to write the keyword ‘global’ before the name of the variable.  
+
+---
+---
+
+
+```
+testvariable = 10
+def function1():
+    print("Inside function1")
+    global testvariable
+    print(testvariable)
+function1()
+print(testvariable)
+```
+
+6 : In the above program what is the output of Line 5?  
+
+a) 10  
+b) Inside function  
+c) 100  
+d) None of the above  
+
+**Answer** a) 
+
+**Description**
+
+Here we are not defining testvariable within the function. But we are adding a line ‘global testvariable’. So, it takes the global value of the testvariable which we assigned outside the function and it is 10. So, in Line 5 , 10 will get printed.
+
+---
+---
+
+
+```
+testvariable = 10
+def function1():
+    print("Inside function1")
+    global testvariable
+    print(testvariable)
+function1()
+print(testvariable)
+```
+
+7 : In the above program what is the output of Line 7?  
+
+a) 10   
+b) Inside function   
+c) 100   
+d) None of the above  
+
+**Answer** a) 
+
+**Description**
+
+We are giving a value 10 to the testvariable globally. So, it will get printed.
+
+---
+---
+
+
+```
+
 
