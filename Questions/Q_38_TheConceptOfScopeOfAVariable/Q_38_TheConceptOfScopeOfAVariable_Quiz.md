@@ -228,6 +228,66 @@ Here we are defining testvariable = 10 outside the function globally. Inside the
 
 
 ```
+testvariable = 10
+def function1():
+    print("Inside function1")
+    global testvariable
+    print(testvariable)
+    testvariable = 1000
+    print(testvariable)
+function1()
+print(testvariable)
+```
+
+10 : In the above program what is the output of Line 9?  
+
+a) 1000  
+b) 10  
+c) 100  
+d) None of the above  
+
+**Answer** a) 
+
+**Description**
+
+Here we are defining testvariable = 10 outside the function globally. Inside the function to get access to it we are adding the line global testvariable. Then we are changing the value of the testvariable to 1000 in Line 6. So, the value of the testvariable will change to 1000 globally. So, in Line 7 1000 will get printed. In Line 9 also 1000 will get printed, because we are changing the value of the testvariable globally. 
+
+---
+---
+
+
+```
+testvariable = 10
+def function1():
+    print("Inside function1")
+    testvariable = 1000
+    print(testvariable)
+def function2():
+    print("Inside function2")
+    testvariable = 2000
+    print(testvariable)
+function1()
+function2()
+print(testvariable)
+```
+
+11 : Which are the types of variables in this program?  
+
+a) 3 global variables   
+b) 3 local variables   
+c) 1 global variable & 2 local variables  
+d) None of the above  
+
+**Answer** c) 
+
+**Description**
+
+Here Line 1 is a global variable. In Line 4 we are defining a local variable which has scope only inside function1. In Line 8 we are defining another local variable which has scope inside function2. So, there are 2 local and 1 global variable.
+
+---
+---
+
+
 
 
 
