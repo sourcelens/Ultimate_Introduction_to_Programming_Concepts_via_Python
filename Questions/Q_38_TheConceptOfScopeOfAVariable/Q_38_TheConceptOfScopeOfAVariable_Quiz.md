@@ -170,5 +170,64 @@ We are giving a value 10 to the testvariable globally. So, it will get printed.
 
 
 ```
+testvariable = 10
+def function1():
+    print("Inside function1")
+    global testvariable
+    print(testvariable)
+    testvariable = 1000
+    print(testvariable)
+function1()
+print(testvariable)
+```
+
+8 : In the above program what is the output of Line 5?  
+
+a) 1000   
+b) 10   
+c) 100   
+d) None of the above  
+
+**Answer** b) 
+
+**Description**
+
+Here we are not defining testvariable within the function. But we are adding a line ‘global testvariable’. So, it takes the global value of the testvariable which we assigned outside the function and it is 10. So, in Line 5 , 10 will get printed.
+
+---
+---
+
+
+```
+testvariable = 10
+def function1():
+    print("Inside function1")
+    global testvariable
+    print(testvariable)
+    testvariable = 1000
+    print(testvariable)
+function1()
+print(testvariable)
+```
+
+9 : In the above program what is the output of Line 7?  
+
+a) 1000   
+b) 10   
+c) 100  
+d) None of the above  
+
+**Answer** a) 
+
+**Description**
+
+Here we are defining testvariable = 10 outside the function globally. Inside the function to get access to it we are adding the line global testvariable. Then we are changing the value of the testvariable to 1000 in Line 6. So, the value of the testvariable will change to 1000 globally. So, in Line 7 1000 will get printed.  
+
+---
+---
+
+
+```
+
 
 
