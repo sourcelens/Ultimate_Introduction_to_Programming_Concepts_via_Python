@@ -166,6 +166,99 @@ It will print 0, 1, 2 for apple. This is because we are giving the range ( 0, 3 
 
 
 ```
+fruits = [ "apple", "orange", "mango", "grapes"]
+for f in fruits:
+    for n in range (0, 3):
+        print (str (n) + " for fruit " + f)
+```
+
+7 : What will get printed on the screen for the 3 iterations of inner for loop for the third item mango in the array?  
+
+a) 0 for fruit mango 
+
+   1 for fruit mango
+
+   2 for fruit mango  
+
+ b) 1 for fruit mango
+
+    2 for fruit mango 
+
+    3 for fruit mango  
+
+ c) 0 for fruit orange 
+
+    1 for fruit orange 
+
+    2 for fruit orange  
+
+ d) 1 for fruit orange
+
+    2 for fruit orange
+
+    3 for fruit orange  
+
+**Answer** a) 
+
+**Description**
+
+It will print 0, 1, 2 for mango. This is because we are giving the range ( 0, 3 ). So, it starts from 0 and go as 0, 1, 2 for mango.  
+
+---
+---
+
+
+```
+fruits = [ "apple", "orange", "mango", "grapes"]
+for f in fruits:
+    for n in range (100, 103):
+        if (f == "apple"):
+            print (str(n) + " just for fruit " + f + " only")
+```
+
+8) In the above program how many times Line 3 will be executed?  
+
+a) 12   
+b) 11  
+c) 3  
+d) 4  
+
+**Answer** a) 
+
+**Description**
+
+The inner for loop will run 3 times for each item in the array, that is for 100, 101 &amp; 102. So, total 4 items in the array, so total of 3 * 4 = 12 times. But printing happens only for apple, because we are giving a condition in Line 4 that if (f = = apple), then only print. So, print will happen only for apple 3 times. 
+
+---
+---
+
+
+```
+fruits = [ "apple", "orange", "mango", "grapes"]
+for f in fruits:
+    for n in range (100, 103):
+        if (f == "apple"):
+            print (str(n) + " just for fruit " + f + " only")
+```
+
+9 : In the above program how many times the print statement ( Line 5 ) will execute?  
+
+a) 12    
+b) 11  
+c) 3   
+d) 4  
+
+**Answer** c) 
+
+**Description**
+
+The inner for loop will run 3 times for each item in the array, that is for 100, 101 &amp; 102. So, total 4 items in the array, so total of 3 * 4 = 12 times. But printing happens only for apple, because we are giving a condition in Line 4 that if (f = = apple), then only print. So, print will happen only for apple 3 times.  
+
+---
+---
+
+
+
 
 
    
