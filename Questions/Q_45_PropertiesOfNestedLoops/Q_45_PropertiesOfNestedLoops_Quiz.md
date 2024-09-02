@@ -123,7 +123,52 @@ Here in the program the first for loop will have 4 iterations, because there are
 
 
 ```
+fruits = [ "apple", "orange", "mango", "grapes"]
+for f in fruits:
+    for n in range (0, 3):
+        print (str (n) + " for fruit " + f)
+```
 
+6 : What will get printed on the screen for the 3 iterations of inner for loop for the first item apple in the array?  
+
+a) 0 for fruit apple
+
+   1 for fruit apple 
+
+   2 for fruit apple  
+
+b) 0 for fruit orange 
+
+   1 for fruit orange 
+
+   2 for fruit orange  
+
+c) 1 for fruit apple 
+
+   2 for fruit apple
+
+   3 for fruit apple  
+
+d) 1 for fruit orange
+
+   2 for fruit orange
+
+   3 for fruit orange   
+
+**Answer** a) 
+
+**Description** 
+
+It will print 0, 1, 2 for apple. This is because we are giving the range ( 0, 3 ). So, it starts from 0 and go as 0, 1, 2 for apple.  
+
+---
+---
+
+
+```
+
+
+   
 
 
 
