@@ -132,5 +132,36 @@ d) Null
 
 
 ```
+#
+def findNinMints(input,n):
+    for index,integerI in enumerate(input):
+        if(integerI == n):
+            return index
+    return "not found"
+ints = [2,4,5,8,9,0]
+print(findNinMints(ints,1))
+```
+
+6 : what will be the output of the above program if the number becomes 1 ?
+
+a) 1  
+b) 6  
+c) not found  
+d) None of the above  
+
+**Answer** c) 
+
+**Description**
+
+1 is not in the list so we will get not found as the answer.
+
+---
+---
+
+
+```
+
+
+
 
 
