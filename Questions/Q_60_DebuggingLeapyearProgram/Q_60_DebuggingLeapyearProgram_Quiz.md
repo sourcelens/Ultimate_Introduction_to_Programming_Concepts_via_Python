@@ -440,6 +440,68 @@ All the conditions return False. So this is not a leap year.
 
 
 ```
+#
+year=2000
+if(year % 400 == 0):
+    print("{0} is a leap year".format(year))
+elif(year % 4 == 0) and (year % 100 != 0):
+    print("{0} is a leap year".format(year))
+else:
+    print("{0} is not a leap year".format(year))
+```
+
+16 : What will be the output of the above code?  
+
+a) 2000 is a leap year  
+b) 2000 is not a leap year  
+c) Ordinary year  
+d) None of the above  
+
+**Answer** a) 
+
+**Description**
+
+It is a multiple of 400 and this will print 2000 is a leap year.  
+
+---
+---
+
+
+```
+#
+def IsThisALeapYear(year):
+    if(year % 400 == 0):
+        return True
+    elif(year % 4 == 0) and (year % 100 != 0):
+        return True
+    else:
+        return False
+    
+num = 3000
+for i in range(num):
+    if IsThisALeapYear(i):
+        print(str(i)+"is a leap year")
+    else:
+        print(str(i)+"is a not a leap year")
+```
+
+17 : What will be the output of the above code?  
+
+a) It will print all the years below 3000 is a leap year or not  
+b) leap years only  
+c) Ordinary year only  
+d) None of the above  
+
+**Answer** a) 
+
+**Description**
+
+This program checks all the years below 3000 is leap year or not.  
+
+---
+---
+
+
 
 
 
