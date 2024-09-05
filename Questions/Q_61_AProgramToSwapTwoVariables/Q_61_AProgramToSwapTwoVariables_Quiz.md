@@ -159,4 +159,119 @@ This program is for swapping two variables. At start a is giving a value 10 and 
 
 
 ```
+a = 10
+b = 20
+
+b = a + b
+a = b - a
+b = b - a
+
+print(a)
+print(b)
+```
+
+6 : In the above program what will be the value of b after execution of Line 4?  
+
+a) 20   
+b) 10   
+c) 30   
+d) 40  
+
+**Answer** c) 
+
+**Descrption**
+
+In Line 4 We are adding both a &amp; b and assigning it to b. So, a is 10 &amp; b is 20 &amp; a + b will be 30. It is assigned to b in Line 4. So, b will become 30.
+
+---
+---
+
+
+```
+a = 10
+b = 20
+
+b = a + b
+a = b - a
+b = b - a
+
+print(a)
+print(b)
+```
+
+7 : What will be the value of a after the execution of Line 5?  
+
+a) 10   
+b) 20  
+c) 30  
+d) 40   
+
+**Answer** b) 
+
+**Descrption**
+
+In Line 5 we are subtracting the value of a from b. b has become 30 in Line 4. a is 10. So, we are subtracting 30 – 10 which is 20.  
+
+---
+---
+
+
+```
+a = 10
+b = 20
+
+b = a + b
+a = b - a
+b = b - a
+
+print(a)
+print(b)
+```
+
+8 : What will be the value of b after the execution of Line 6?  
+
+a) 10   
+b) 20   
+c) 30  
+d) 40  
+
+**Answer** a) 
+
+**Descrption**
+
+In Line 6 we are doing b – a and assigning it to b. Here a will be 20, because in Line 5 we are doing b – a (30 – 10) and assigning it to a. The value of b is 30, because in Line 4 we are adding a &amp; b which is 10 + 20 = 30 and assigning it to b. So, in Line 6 we are doing b – a which will be 30 – 20 and it is 10. S0, b will become 10.  
+
+---
+---
+
+
+```
+a = 10
+b = 20
+
+b = a + b
+a = b - a
+b = b - a
+
+print(a)
+print(b)
+```
+
+9 : The logic of this program is not universal and is not applicable for _______  
+
+a) Numbers   
+b) Strings  
+c) Both of the above  
+d) None of the above  
+
+**Answer** b) 
+
+**Descrption**
+
+This logic is not applicable for strings. It is only applicable for numbers. We can’t do subtraction of strings.  
+
+---
+---
+
+
 
