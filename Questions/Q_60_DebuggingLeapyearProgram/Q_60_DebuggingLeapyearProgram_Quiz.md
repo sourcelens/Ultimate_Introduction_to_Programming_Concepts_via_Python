@@ -412,6 +412,35 @@ d) None of the above
 
 
 ```
+#
+year=1900
+if(year % 400 == 0):
+    print("{0} is a leap year".format(year))
+elif(year % 4 == 0) and (year % 100 != 0):
+    print("{0} is a leap year".format(year))
+else:
+    print("{0} is not a leap year".format(year))
+```
+
+15 : What will be the output of the above code?  
+
+a) 1900 is not a leap year  
+b) 1900 is a leap year  
+c) Ordinary year  
+d) None of the above  
+
+**Answer** a) 
+
+**Description**
+
+All the conditions return False. So this is not a leap year.  
+
+---
+---
+
+
+```
+
 
 
 
