@@ -190,7 +190,76 @@ In binary each digit is called a Bit.
 ---
 
 
-11 : 
+11 : Right shift in binary number system is _______  
+
+a) Dividing by 1   
+b) Dividing by 2  
+c) Dividing by 5  
+d) Dividing by 10  
+
+**Answer** b) 
+
+**Description**
+
+It is dividing by 2. Right shift in the binary number system is an operation that shifts all the bits of a binary number to the right by a specified number of positions.  
+
+---
+---
+
+
+12 : Left shift in binary number system is _______  
+
+a) Dividing by 2  
+b) Multiplying by 2   
+c) Multiplying by 10   
+d) Dividing by 10  
+
+**Answer** b) 
+
+**Description**
+
+It is multiplying by 2.  
+
+---
+---
+
+
+13 : The symbol for bitwise AND operation in Python is _______  
+
+a) &   
+b) =  
+c) /   
+d) //  
+
+**Answer** a) 
+
+**Description**
+
+The symbol for bitwise AND operation in Python is &amp;.  
+
+---
+---
+
+
+14 : The symbol for Right shift in Python is _______  
+
+a) >   
+b) >>   
+c) <   
+d) ==  
+
+**Answer** b) 
+
+**Description**
+
+&gt;&gt; is the symbol for Right shift.  
+
+---
+---
+
+
+
+
 
 
 
