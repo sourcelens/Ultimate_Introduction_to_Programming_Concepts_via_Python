@@ -121,7 +121,80 @@ d) 8
 ---
 
 
-8 : 
+8 :   
+0 OR 0 = 0
+
+1 OR 0 = 1
+
+0 OR 1 = 1
+
+1 OR 1 = 1
+
+This is the Truth table for which operation?  
+
+a) AND   
+b) OR   
+c) NOR  
+d) All of the above  
+
+**Answer** b) 
+
+**Description**
+
+This is the Truth table for OR operation.
+
+---
+---
+
+
+9 :   
+0 AND 0 = 0
+
+1 AND 0 = 0
+
+0 AND 1 = 0
+
+1 AND 1 = 1
+
+This is the Truth table for which operation?  
+
+a) AND  
+b) OR   
+c) NOR   
+d) All of the above  
+
+**Answer** a) 
+
+**Description**
+
+This is the Truth table for AND operation.  
+
+---
+---
+
+
+10 : In binary one digit is also called as _______  
+
+a) Bit  
+b) Byte   
+c) Both of the above   
+d) None of the above  
+
+**Answer** a) 
+
+**Description**
+
+In binary each digit is called a Bit.
+
+---
+---
+
+
+11 : 
+
+
+
+
 
 
 
