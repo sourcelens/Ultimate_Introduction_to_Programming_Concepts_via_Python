@@ -140,7 +140,7 @@ One way of cleaning up of allocated memory is by ending the program. Once the pr
 ---
 
 
-8 : Garbage collector is _______  
+9 : Garbage collector is _______  
 
 a) Entity within Python runtime   
 b) Piece of code which cleans up memory   
