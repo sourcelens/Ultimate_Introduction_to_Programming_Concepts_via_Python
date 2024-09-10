@@ -156,4 +156,25 @@ This is the function to be decorated.
 
 
 ```
+#
+def innerdecorfunc(inputfunc):
+    print("Inside innerdecorfunc Before inputfunc execution")
+    inputfunc()
+    print("Inside innerdecorfunc After inputfunc execution")
 
+def my_decorator():
+    return innerdecorfunc
+
+def function_2b_decorated():
+    print("Inside the function_2b_decorated")
+
+result_function = my_decorator()
+result_function(function_2b_decorated)
+```
+
+6 : What Line 13 does in the above lines of code?  
+
+a) Calling my_decorator()   
+b) Calling decorator()   
+c) Calling my_result()  
+d) None of the above
