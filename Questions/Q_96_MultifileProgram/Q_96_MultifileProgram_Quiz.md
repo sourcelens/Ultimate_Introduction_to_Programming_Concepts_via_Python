@@ -68,5 +68,120 @@ Here we have two functions which take two arguments each.
 ---
 
 
+4 : What are the other names of Multifile programming in different programming languages?  
+
+a) Hash define   
+b) Import   
+c) Package  
+d) All of the above  
+
+**Answer** d) 
+
+**Description**
+
+All above are the different names for this particular concept. Basically, what it means is splitting the code into different files to reduce the complexity of a particular file.  
+
+---
+---
+
+
 ```
+#
+from multifile import sum , extrasum
+print ( sum (1,2) )
+print( extrasum(1,2) )
+```
+
+5 : What does Line 2 in the above lines of code do?  
+
+a) Import multiple functions from multifile   
+b) Adding more stuffs into multifile   
+c) Deleting functions from multifile   
+d) All of the above  
+
+**Answer** a) 
+
+**Description**  
+
+Line 2 performs an import operation from a file named multifile. Specifically, it imports two functions named sum and extrasum into the current namespace.   
+
+---
+---
+
+
+```
+#
+import multifile 
+print ( multifile.sum (1,2) )
+print( multifile.extrasum(1,2) )
+```
+
+6 : What does the Line 2 of above code do?  
+
+a) Import an entire module/file named multifile   
+b) Adding more stuffs into multifile   
+c) Deleting functions from multifile  
+d) All of the above  
+
+**Answer** a) 
+
+**Description**
+
+The provided code demonstrates how to import an entire file named multifile and then access functions within it using the file name as a prefix. 
+
+---
+---
+
+
+```
+#
+import multifile as testmf 
+print ( testmf.sum (1,2) )
+print( testmf.extrasum(1,2) )
+```
+
+7 : What Line 2 does in the above snippet of code?  
+
+a) Imports the multifile and calls a function 'testmf'  
+b) Imports the multifile and assigns an alias 'testmf'  
+c) None of the above  
+d) All of the above  
+
+**Answer** b) 
+
+**Description**
+
+The provided code Imports the multifile. Renames the imported file to testmf, allowing you to refer to its functions using this alias.
+
+---
+---
+
+
+```
+#
+import innerfolder.multifile as testmf 
+print ( testmf.sum (1,2) )
+print( testmf.extrasum(1,2) )
+```
+
+8 : If the Python files we're trying to import are located in different directories, What will happen when we execute the code?  
+
+a) ModuleNotFoundError   
+b) Location is not important   
+c) The program will end   
+d) All of the above  
+
+**Answer** a) 
+
+**Description**
+
+If the files are in different locations and you try to import them using relative imports, you may encounter an ModuleNotFoundError, it's because Python looks for modules in the script's directory and standard locations. To fix this, use dot notation in the import statement, like import innerfolder.multifile, to specify the library's new path.  Line 2 in the above code is to fix this error.  
+
+---
+---
+
+
+
+
+
 
