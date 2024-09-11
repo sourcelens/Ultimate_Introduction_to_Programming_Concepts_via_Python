@@ -32,7 +32,7 @@ d) All of the above
 
 **Description**
 
-b) Binary instructions are the only instructions CPU can understand. It is based on two numbers Zero and One.  
+Binary instructions are the only instructions CPU can understand. It is based on two numbers Zero and One.  
 
 
 
