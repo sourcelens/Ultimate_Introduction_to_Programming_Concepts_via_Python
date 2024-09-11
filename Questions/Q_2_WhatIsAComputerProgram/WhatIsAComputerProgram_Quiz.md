@@ -13,13 +13,9 @@ d) All of the above
 
 **Description**
 
-a) Computer programs are also called Code, Application, Software etc.
+ Computer programs are also called Code, Application, Software etc.
 
-b) Computer programs are also called Code, Application, Software etc.
 
-c) Computer programs are also called Code, Application, Software etc.
-
-d) Computer programs are also called Code, Application, Software etc.
 
 ---
 ---
@@ -36,13 +32,9 @@ d) All of the above
 
 **Description**
 
-a) Decimal numbers are based on 10 numbers (0-9). CPU cannot understand Decimal instructions.  
-
 b) Binary instructions are the only instructions CPU can understand. It is based on two numbers Zero and One.  
 
-c) Hexadecimals are based on 10 numbers (0-9 and A-F).  
 
-d) All are not correct.  
 
 ---
 ---
@@ -59,13 +51,8 @@ d) All of the above
 
 **Description**
 
-a) CPU is the Central Processing Unit where all the tasks are done.  
-
-b) RAM or Random-Access memory is the Primary memory of a computer.  
-
-c) Converter program converts the human readable computer program to Machine code. Converter program for Python is called Python Interpreter.  
-
-d) All are not correct.  
+Converter program converts the human readable computer program to Machine code. Converter program for Python is called Python Interpreter.  
+  
 
 ---
 ---
@@ -82,13 +69,7 @@ d) All of the above
 
 **Description**
 
-a) It is a Programming language.  
-
-b) It is a Programming language.
-
-c) It is a Programming language.  
-
-d) Above mentioned all are computer programming languages. Others include Go, Rust, JavaScript etc.  
+  Above mentioned all are computer programming languages. Others include Go, Rust, JavaScript etc.  
 
 ---
 ---
@@ -105,13 +86,9 @@ d) All of the above
 
 **Description**  
 
-a) Disk is where the computer program which we write and the Converter program are saved. They are saved as Files.  
+Disk is where the computer program which we write and the Converter program are saved. They are saved as Files.  
 
-b) RAM is the Primary memory of the computer. It vanishes when the computer is turned off.  
 
-c) CPU is the Central Processing Unit where all the Tasks are done.  
-
-d) All are not correct.  
 
 ---
 ---
