@@ -69,13 +69,9 @@ d) All of the above
 
 **Description**
 
-a) RAM is the Primary memory of a computer and it vanishes when a computer turns off.  
+Disk is Secondary memory and it will not vanish as the computer turns off. It will retain.  
 
-b) Disk is Secondary memory and it will not vanish as the computer turns off. It will retain.  
 
-c) Primary memory is RAM itself.  
-
-d) All are not correct.
 
 ---
 ---
@@ -92,13 +88,9 @@ d) None of the above
 
 **Description**
 
-a) Primary memory of a computer is RAM or Random Access Memory.  
+ Disk is the Secondary Memory of a computer.  
 
-b) Disk is the Secondary Memory of a computer.  
-
-c) Tertiary storage comprises high-capacity data archives designed to incorporate vast numbers of removable media, such as tapes or optical disks. Examples of tertiary storage are Magnetic tape, optical disk, and optical tapes.   
-
-d) It is not correct.  
+ 
 
 ---
 ---
@@ -115,13 +107,9 @@ d) All of the above
 
 **Description**
 
-a) The fastest memory of a computer is its Primary memory or RAM.  
+The fastest memory of a computer is its Primary memory or RAM.  
 
-b) Secondary Memory or Disk is not as fast as RAM.  
 
-c) Tertiary storage comprises high-capacity data archives designed to incorporate vast numbers of removable media, such as tapes or optical disks. Examples of tertiary storage are Magnetic tape, optical disk, and optical tapes.   
-
-d) All are not correct.  
 
 ---
 ---
@@ -138,13 +126,8 @@ d) Keyboard
 
 **Description**
 
-a) Disk is the Secondary memory of a computer.  
+ All Tasks of a computer are done by CPU or Central Processing Unit and it is the single most important part of a computer.  
 
-b) All Tasks of a computer are done by CPU or Central Processing Unit and it is the single most important part of a computer.  
-
-c) RAM is the Primary memory of a computer.  
-
-d) Keyboard is a device connected to the computer for typing.   
 
 ---
 ---
@@ -161,13 +144,7 @@ d) All of the above
 
 **Description**
 
-a) Keyboard is for typing.  
-
-b) Graphics card is for playing games. It is connected to monitor.  
-
-c) Network card or NIC. A network interface card (NIC) is a hardware component, typically a circuit board or chip, installed on a computer so it can connect to a network.  
-
-d) All of them are various devices connected to the computer. Keyboard is for typing. Graphics card is for playing games. It is connected to monitor. Network card or NIC. A network interface card (NIC) is a hardware component, typically a circuit board or chip, installed on a computer so it can connect to a network.  
+  All of them are various devices connected to the computer. Keyboard is for typing. Graphics card is for playing games. It is connected to monitor. Network card or NIC. A network interface card (NIC) is a hardware component, typically a circuit board or chip, installed on a computer so it can connect to a network.  
 
 ---
 ---
@@ -184,13 +161,7 @@ d) All of the above
 
 **Description**
 
-a) CPU, RAM and Graphics card are connected through circuits and placed inside the Motherboard of the computer.  
-
-b) CPU, RAM and Graphics card  are connected through circuits and placed inside the Motherboard of the computer.  
-
-c) CPU, RAM and Graphics card are connected through circuits and placed inside the Motherboard of the computer.  
-
-d) CPU, RAM and Graphics card are connected through circuits and placed inside the Motherboard of the computer.  
+CPU, RAM and Graphics card are connected through circuits and placed inside the Motherboard of the computer.  
 
 ---
 ---
@@ -207,13 +178,9 @@ d) All of the above
 
 **Description**
 
-a) They are altogether called as hardware.  
+They are altogether called as hardware.  
 
-b) They are instructions to operate computer.  
 
-c) It is the Circuit Board which connects all of the hardware to Processor.  
-
-d) All are not correct.  
 
 ---
 ---
@@ -230,13 +197,7 @@ d) All of the above
 
 **Description**
 
-a) It is an Operating system.  
-
-b) It is an Operating system.
-
-c) It is an Operating system.
-
-d) Above mentioned all are various Operating Systems. Operating systems are Software.  
+Above mentioned all are various Operating Systems. Operating systems are Software.  
 
 ---
 ---
