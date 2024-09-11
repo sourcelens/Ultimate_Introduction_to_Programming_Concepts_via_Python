@@ -13,14 +13,9 @@ d) All of the above
 
 **Description**  
 
-a) RAM is called the Primary memory of a computer.
+CPU or Central Processing Unit is the single most important part of a computer. All the tasks or instructions or calculations are done by the CPU.   
 
-b) Disk is the Secondary memory of the computer.  
-
-c) CPU or Central Processing Unit is the single most important part of a computer. All the tasks or instructions or calculations are done by the CPU.   
-
-d) All are not correct.  
-
+  
 ---
 ---
 
@@ -36,13 +31,10 @@ d) All of the above
 
 **Description**
 
-a) Disk is called the Secondary memory of a computer. It retains even the computer turns off. It is slower than RAM.  
+RAM or Random Access Memory is called the Primary memory of a computer.  It will vanish as computer turns off. It is the fastest memory.  
 
-b) RAM or Random Access Memory is called the Primary memory of a computer.  It will vanish as computer turns off. It is the fastest memory.  
 
-c) CPU is the Central Processing Unit of the computer where calculations or tasks are done. CPU is connected to RAM.  
-
-d) All are not correct.  
+  
 
 ---
 ---
@@ -59,13 +51,8 @@ d) All of the above
 
 **Description**
 
-a) RAM is the Primary memory of a computer and it vanishes when a computer turns off.  
+ RAM is the Primary memory of a computer and it vanishes when a computer turns off.  
 
-b) Disk is Secondary memory and it will not vanish as the computer turns off. It will retain.  
-
-c) Secondary memory is Disk itself.  
-
-d) All are not correct.  
 
 ---
 ---
