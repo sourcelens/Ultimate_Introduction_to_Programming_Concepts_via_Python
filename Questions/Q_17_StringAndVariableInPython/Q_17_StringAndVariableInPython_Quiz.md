@@ -13,13 +13,7 @@ d) All of the above
 
 **Description**  
 
-a) Step over helps you to just execute the immediate next line.
-
-b) Step into helps you to enter into a function.
-
-c) Break point is the feature in VS code that freezes or breaks the program at that point in time for debugging.
-
-d) All are not correct.
+Break point is the feature in VS code that freezes or breaks the program at that point in time for debugging
 
 ---
 ---
@@ -36,13 +30,7 @@ d) None of the above
 
 **Description**  
 
-a) Debugging is the process of inspecting a program using Break points. 
-
-b) Step over helps you to just execute the immediate next line.
-
-c) Step into helps you to enter into a function.
-
-d) It is not correct.
+Debugging is the process of inspecting a program using Break points. 
 
 ---
 ---
@@ -59,13 +47,7 @@ d) Breaks the program at a particular point in time
 
 **Description**  
 
-a) It does not break the complete program.
-
-b) It does not end the program.
-
-c) It does not close the program.
-
-d) Break point stops the execution of the line, to which it is inserted, till getting the instruction from the programmer.
+It does not end the program.
 
 ---
 ---
@@ -82,13 +64,7 @@ d) None of the above
 
 **Description**  
 
-a) Step over button in VS code is to just execute the immediate next line of the program.
-
-b) It is not correct.
-
-c) It is not correct.
-
-d) It is not correct.
+Step over button in VS code is to just execute the immediate next line of the program.
 
 ---
 ---
@@ -105,13 +81,7 @@ d) None of the above
 
 **Description**  
 
-a) Watch window allows you to monitor the values of variables or expressions throughout the debugging session.
-
-b) It does not tell the type of the variable.
-
-c) It is not a Function.
-
-d) It is not correct.
+Watch window allows you to monitor the values of variables or expressions throughout the debugging session.
 
 ---
 ---
