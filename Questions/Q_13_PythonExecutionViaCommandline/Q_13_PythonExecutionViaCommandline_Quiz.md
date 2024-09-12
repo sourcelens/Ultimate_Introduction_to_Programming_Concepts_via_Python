@@ -13,13 +13,7 @@ d) All of the above
 
 **Description**
 
-a) It is not conhost.exe.
-
-b) It is not program.py.
-
-c) cmd.exe is the parent of python.exe if it is launched from the command prompt (CMD) on Windows. 
-
-d) All are not correct.  
+cmd.exe is the parent of python.exe if it is launched from the command prompt (CMD) on Windows.   
 
 ---
 ---
