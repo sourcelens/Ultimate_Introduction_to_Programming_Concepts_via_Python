@@ -13,13 +13,8 @@ d) All of the above
 
 **Description**  
 
-a) Operating system is the entity which abstracts the complexity of hardware from the end user.  
-
-b) CPU is the Central Processing Unit where all the Tasks are done.  
-
-c) RAM is the Primary memory of the computer. It vanishes when the computer is turned off.  
-
-d) All are not correct.  
+Operating system is the entity which abstracts the complexity of hardware from the end user.  
+  
 
 ---
 ---
