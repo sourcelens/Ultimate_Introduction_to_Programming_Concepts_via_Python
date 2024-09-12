@@ -13,13 +13,7 @@ d) Comments
 
 **Description**
 
-a) Functions are code written by someone else which takes arguments. Eg:- print (), input () etc.  
-
-b) When we are using variables, we will be getting a piece of RAM and using that piece of memory to store data.         
-
-c) Operators include =, ==, +, -, *, /, &lt;, &gt; etc.
-
-d) Comment line explains what is the purpose of the next line of the code.  
+When we are using variables, we will be getting a piece of RAM and using that piece of memory to store data.         
 
 ---
 ---
@@ -36,13 +30,7 @@ d) Comments
 
 **Description**
 
-a) Variables uses a piece of computer memory and can hold numbers, strings, details of other variables and so on.  
-
-b) Functions are code written by someone else which takes arguments. Eg:- print (), input () etc.  
-
-c) Operators include =, ==, +, -, *, /, &lt;, &gt; etc.
-
-d) Comment line explains what is the purpose of the next line of the code.
+Variables uses a piece of computer memory and can hold numbers, strings, details of other variables and so on.  
 
 ---
 ---
@@ -59,13 +47,7 @@ d) None of the above
 
 **Description**
 
-a) There are many types of variables based on size, type, etc
-
-b) There are many types of variables based on size, type, etc
-
-c) There are many types of variables based on size, type, etc
-
-d) It is not correct.  
+There are many types of variables based on size, type, etc  
 
 ---
 ---
@@ -82,13 +64,7 @@ d) All of the above
 
 **Description**
 
-a) Almost all languages have some naming restrictions. In Python we can use letters, numbers and underscore.
-
-b) Almost all languages have some naming restrictions. In Python we can use letters, numbers and underscore.
-
-c) Almost all languages have some naming restrictions. In Python we can use letters, numbers and underscore.
-
-d) Almost all languages have some naming restrictions. In Python we can use letters, numbers and underscore.
+Almost all languages have some naming restrictions. In Python we can use letters, numbers and underscore.
 
 ---
 ---
@@ -105,13 +81,7 @@ d) Underscores
 
 **Description**
 
-a) Almost all languages do not allow space while naming variables.  
-
-b) Letters are allowed in naming variables.
-
-c) Numbers are allowed in naming variables. 
-
-d) Underscores are allowed in naming variables.
+Almost all languages do not allow space while naming variables.  
 
 ---
 ---
@@ -128,13 +98,7 @@ d) None of the above
 
 **Description**
 
-a) Variables don’t allow this.
-
-b) Strings can contain any characters.
-
-c) Both are not correct.
-
-d) It is not correct.
+Strings can contain any characters.
 
 ---
 ---
@@ -151,13 +115,7 @@ d) Infinite
 
 **Description**
 
-a) Not a single time.
-
-b) Not two times.  
-
-c) Not for three times.
-
-d) We can read & write any number of times from a variable. It is like a bag that we can use infinite number of times.
+We can read & write any number of times from a variable. It is like a bag that we can use infinite number of times.
 
 ---
 ---
