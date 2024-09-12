@@ -9,17 +9,11 @@ b) 8 bit, 16 bit, etc.
 c) Signed & unsigned  
 d) All of the above  
 
-**Answer** d) 
+**Answer** a) 
 
 **Description**  
 
-a) Float is normally used to store decimals. Eg:- 1.25, 2.5, etc. Int is used for integers like 1, 2, 3, etc.
-
-b) This is classification of variables based on size.  
-
-c) This is classification of variables based on usage.
-
-d) All are not correct.  
+Float is normally used to store decimals. Eg:- 1.25, 2.5, etc. Int is used for integers like 1, 2, 3, etc.  
 
 ---
 ---
@@ -36,13 +30,7 @@ d) All of the above
 
 **Description**  
 
-a) Float is normally used to store decimals. Eg:- 1.25, 2.5, etc.
-
-b) Int is used for integers like 1, 2, 3, etc.
-
-c) String is the one we write inside quotes. It can contain any characters.
-
-d) All are not correct.
+Int is used for integers like 1, 2, 3, etc.
 
 ---
 ---
@@ -59,13 +47,7 @@ d) All of the above
 
 **Description**  
 
-a) Based on size we have different types of variables like 8 bit, 16 bit, 32 bit, 64 bit, probably more than that. If you don’t want to waste too much memory, you can use 8 bit and if you have bigger data to store, you can use bigger memory bits. 
-
-b) Based on size we have different types of variables like 8 bit, 16 bit, 32 bit, 64 bit, probably more than that. If you don’t want to waste too much memory, you can use 8 bit and if you have bigger data to store, you can use bigger memory bits. 
-
-c) Based on size we have different types of variables like 8 bit, 16 bit, 32 bit, 64 bit, probably more than that. If you don’t want to waste too much memory, you can use 8 bit and if you have bigger data to store, you can use bigger memory bits. 
-
-d) Based on size we have different types of variables like 8 bit, 16 bit, 32 bit, 64 bit, probably more than that. If you don’t want to waste too much memory, you can use 8 bit and if you have bigger data to store, you can use bigger memory bits. 
+Based on size we have different types of variables like 8 bit, 16 bit, 32 bit, 64 bit, probably more than that. If you don’t want to waste too much memory, you can use 8 bit and if you have bigger data to store, you can use bigger memory bits. 
 
 ---
 ---
@@ -82,13 +64,7 @@ d) None of the above
 
 **Description**  
 
-a) In the signed one we can store negative values like -1, -100 & so on. In unsigned one we can represent one without signs.
-
-b) In the signed one we can store negative values like -1, -100 & so on. In unsigned one we can represent one without signs.
-
-c) In the signed one we can store negative values like -1, -100 & so on. In unsigned one we can represent one without signs.
-
-d) It is not correct.
+In the signed one we can store negative values like -1, -100 & so on. In unsigned one we can represent one without signs.
 
 ---
 ---
