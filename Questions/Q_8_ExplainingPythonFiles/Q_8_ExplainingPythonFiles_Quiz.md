@@ -13,13 +13,9 @@ d) All of the above
 
 **Description**  
 
-a) Web browser is an application for accessing websites and the internet.  
+Python is a set of files which is installed in a particular location in a system.  when you install Python on your computer, it consists of executable files, libraries, configuration files, and other supporting files that are placed in designated directories. These files together make up the Python programming language environment that allows you to write, run, and manage Python programs.
 
-b) Search engine is a software system that finds web pages that match a web search.  
 
-c) Python is a set of files which is installed in a particular location in a system.  when you install Python on your computer, it consists of executable files, libraries, configuration files, and other supporting files that are placed in designated directories. These files together make up the Python programming language environment that allows you to write, run, and manage Python programs.
-
-d) It is not correct.
 
 ---
 ---
@@ -36,13 +32,7 @@ d) None of the above
 
 **Description**  
 
-a) .exe or Python executable is used to execute programs. This is the binary which is getting invoked when we do any application.  
-
-b) .dll is the dependency of Python. They are all helpers. Dependency of binary.
-
-c) .exe or Python executable is used to execute programs. This is the binary which is getting invoked when we do any application.  .dll is the dependency of Python. They are all helpers. Dependency of binary.
-
-d) It is not correct.
+.exe or Python executable is used to execute programs. This is the binary which is getting invoked when we do any application.  .dll is the dependency of Python. They are all helpers. Dependency of binary.
 
 ---
 ---
@@ -59,13 +49,7 @@ d) All of the above
 
 **Description**  
 
-a) .exe is a binary file. When we open it using a Notepad, you'll mostly see garbled, nonsensical characters. This is because .exe files are compiled binary files, designed to be read and executed by the computer's operating system, not to be interpreted as text.   
-
-b) .exe is not a Text file. In Text files we can see text.
-
-c) XML is a general - purpose markup language.
-
-d) It is not correct.
+.exe is a binary file. When we open it using a Notepad, you'll mostly see garbled, nonsensical characters. This is because .exe files are compiled binary files, designed to be read and executed by the computer's operating system, not to be interpreted as text.   
 
 ---
 ---
@@ -82,13 +66,7 @@ d) None of the above
 
 **Description**  
 
-a) By doing these steps, we will get the properties of a Binary file.
-
-b) These steps are not correct.
-
-c) These steps are not correct.
-
-d) It is not correct.
+By doing these steps, we will get the properties of a Binary file.
 
 ---
 ---
@@ -105,13 +83,7 @@ d) All of the above
 
 **Description**  
 
-a) It is not used in Python.
-
-b) end parameter is used to append a new string to the output of the print function.
-
-c)  If you are executing Python from command prompt, to exit from it, the command you would use is exit (). 
-
-d) It is not correct.
+If you are executing Python from command prompt, to exit from it, the command you would use is exit (). 
 
 ---
 ---
@@ -128,13 +100,9 @@ d) All of the above
 
 **Description**  
 
-a) Files which are completely readable are called Text files. They should not contain any garbage or strange characters.
+Files which are completely readable are called Text files. They should not contain any garbage or strange characters.
 
-b) They are Binary files. They should contain garbage or strange characters. They are not readable.
 
-c) Binary files are non human readable files.
-
-d) It is not correct.
 
 ---
 ---
@@ -151,13 +119,7 @@ d) All of the above
 
 **Description**  
 
-a) These are extensions of Text files not Binary files.
-
-b) These are extensions of Text files.  
-
-c) These are extensions of Text files not CSV files.
-
-d) All are not correct.  
+These are extensions of Text files.  
 
 ---
 ---
