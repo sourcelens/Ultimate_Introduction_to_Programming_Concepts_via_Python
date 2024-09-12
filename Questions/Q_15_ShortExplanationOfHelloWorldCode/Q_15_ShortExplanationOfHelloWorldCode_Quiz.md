@@ -13,13 +13,7 @@ d) print ()
 
 **Description**
 
-a) It is not correct.
-
-b) It is not correct.
-
-c) input () function is for inputting a value from the end user.
-
-d) We are passing the value to the print () function and asking Python to print it.
+We are passing the value to the print () function and asking Python to print it.
 
 ---
 ---
@@ -36,13 +30,7 @@ d) print “hello world”
 
 **Description**
 
-a) Quotes are needed to print hello world in Python.  
-
-b) This is the correct syntax to print hello world in Python.  
-
-c) prints is not correct. We need print. The name prints is not defined in Python.
-
-d) Parenthesis () is required after print.
+This is the correct syntax to print hello world in Python.  
 
 ---
 ---
@@ -59,14 +47,8 @@ d) None of the above
 
 **Description**
 
-a) The entity ‘print’ is defined in Python as a Function.
-
-b) Print is a function in python not library.  
-
-c) “hello world” here is the string literal which we are printing.
-
-d) The entity ‘print’ is defined in Python as a Function.  
-
+The entity ‘print’ is defined in Python as a Function.
+ 
 ---
 ---
 
@@ -82,13 +64,7 @@ d) Both a) & b)
 
 **Description**
 
-a) Function or Subroutine in Python are the ones which are already defined in Python for certain specific purposes. Eg:- print (), input () etc.
-
-b) Function or Subroutine in Python are the ones which are already defined in Python for certain specific purposes. Eg:- print (), input () etc.
-
-c) “hello world” which is inside quotes here is the string literal, which we are printing.
-
-d) Function or Subroutine in Python are the ones which are already defined in Python for certain specific purposes. Eg:- print (), input () etc.
+“hello world” which is inside quotes here is the string literal, which we are printing.
 
 ---
 ---
@@ -105,13 +81,7 @@ d) None of the above
 
 **Description**
 
-a) Execution of a Python program is generally from top to bottom one after the other, but there are exceptions.
-
-b) Execution is not from bottom to top.
-
-c) Both are not correct.
-
-d) It is not correct.
+Execution of a Python program is generally from top to bottom one after the other, but there are exceptions.
 
 ---
 ---
