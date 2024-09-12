@@ -13,13 +13,7 @@ d) All of the above
 
 **Description** 
 
-a) CPU is the Central Processing Unit where all the Tasks are done.  
-
-b) Primary memory is RAM.  
-
-c) It is the Disk.  
-
-d) The computer is made up of CPU, Memory and Memory is the primary memory which is called RAM and secondary memory which is Disk.  
+The computer is made up of CPU, Memory and Memory is the primary memory which is called RAM and secondary memory which is Disk.  
 
 ---
 ---
@@ -36,13 +30,7 @@ d) All of the above
 
 **Description** 
 
-a) Memory can be primary memory which is called RAM and secondary memory which is Disk.  
-
-b) Normally we use Disk to store Files. Eg :- Images, web pages. Everything we see in a computer is one way or other are different types of files.  
-
-c) RAM or Random Access Memory is the primary memory of a computer.   
-
-d) All of the above are not correct.  
+Normally we use Disk to store Files. Eg :- Images, web pages. Everything we see in a computer is one way or other are different types of files.    
 
 ---
 ---
@@ -59,13 +47,7 @@ d) All of the above
 
 **Description** 
 
-a) Everything we see in a computer are different types of files. Every software piece, every data, web pages we are accessing, Python programs like text files, all are files.
-
-b) Everything we see in a computer are different types of files. Every software piece, every data, web pages we are accessing, Python programs like text files, all are files.
-
-c) Everything we see in a computer are different types of files. Every software piece, every data, web pages we are accessing, Python programs like text files, all are files. 
-
-d) Everything we see in a computer are different types of files. Every software piece, every data, web pages we are accessing, Python programs like text files, all are files.
+ Everything we see in a computer are different types of files. Every software piece, every data, web pages we are accessing, Python programs like text files, all are files.
 
 ---
 ---
@@ -82,13 +64,9 @@ d) All of the above
 
 **Description** 
 
-a) In Windows File explorer is used to browse files.
+In Windows File explorer is used to browse files.
 
-b) Terminal is used to start a program, mostly created by someone.
 
-c) The Secure Shell (SSH) protocol is a method for securely sending commands to a computer over an unsecured network.
-
-d) All are not correct.
 
 ---
 ---
@@ -107,12 +85,6 @@ d) All of the above
 
 a) The programs we are developing are Files. Files are nothing but binary. Everything we see in a computer are different types of files. Every software piece, every data, web pages we are accessing, Python programs like text files, all are files.  
 
-b) Files and File browsers are slightly different. They provide interface with Operating system.
-
-c) Terminal is used to start a program, mostly created by someone.
-
-d) All are not correct.
-
 ---
 ---
 
@@ -128,13 +100,9 @@ d) All of the above
 
 **Description** 
 
-a) RAM is primary memory and vanishes when the computer turns off. So, files are not stored there. 
+ Disk is where all files are stored. It does not vanish and retains even the computer turns off.
 
-b) Disk is where all files are stored. It does not vanish and retains even the computer turns off.
-
-c) CPU is the Central Processing Unit where all the Tasks are done.
-
-d) All are not correct.  
+ 
 
 ---
 ---
@@ -151,13 +119,9 @@ d) None of the above
 
 **Description** 
 
-a) Decimal is the numbers with base 10 that we are normally using. Computers cannot understand that.
+Computer only understands binary data. So, all files contain binary numbers only, 0 &amp; 1.
 
-b) Computer only understands binary data. So, all files contain binary numbers only, 0 &amp; 1.
 
-c) All are not correct.
-
-d) It is not correct.
 
 ---
 ---
@@ -174,13 +138,7 @@ d) All of the above
 
 **Description** 
 
-a) Shell is using to execute the programs we are creating and programs we are creating are nothing but files.
-
-b) Files and File browsers are slightly different. They provide interface with Operating system.  
-
-c) CMD and terminal is used to start a program, mostly created by someone.
-
-d) All are not correct.
+Shell is using to execute the programs we are creating and programs we are creating are nothing but files.
 
 ---
 ---
@@ -197,13 +155,7 @@ d) Both a & b
 
 **Description** 
 
-a) Compilers, Linkers etc. are some of the Programming Runtime tools.
-
-b) Compilers, Linkers etc. are some of the Programming Runtime tools.
-
-c) Terminal is used to start a program, mostly created by someone.  
-
-d) Compilers, Linkers etc. are some of the Programming Runtime tools.  
+Compilers, Linkers etc. are some of the Programming Runtime tools.  
 
 ---
 ---
@@ -220,13 +172,7 @@ d) All of the above
 
 **Description** 
 
-a) We will be using Python interpreter as Programming language Runtime tool. It interprets and executes Python code line by line.
-
-b) Terminal is used to start a program, mostly created by someone.
-
-c) Files and File browsers are slightly different. They provide interface with Operating system.
-
-d) All are not correct.  
+We will be using Python interpreter as Programming language Runtime tool. It interprets and executes Python code line by line.
 
 ---
 ---
@@ -243,13 +189,7 @@ d) All of the above
 
 **Description** 
 
-a) Python interpreter converts the human readable computer programs to binary machine codes in Python. Sometimes it is simply called as Python.
-
-b) Terminal is used to start a program, mostly created by someone.
-
-c) Shell is the place from which we can start other programs. 
-
-d) All are not correct.
+Python interpreter converts the human readable computer programs to binary machine codes in Python. Sometimes it is simply called as Python.
 
 ---
 ---
