@@ -43,11 +43,11 @@ b) Ends the program
 c) Closes the program  
 d) Breaks the program at a particular point in time    
 
-**Answer** b) 
+**Answer** d) 
 
 **Description**  
 
-It does not end the program.
+Break point stops the execution of the line, to which it is inserted, till getting the instruction from the programmer.
 
 ---
 ---
