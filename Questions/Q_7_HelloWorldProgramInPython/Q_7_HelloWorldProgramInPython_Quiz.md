@@ -13,13 +13,7 @@ d) All of the above
 
 **Description** 
 
-a) Older version of Python.  
-
-b) We are using Python 3.x.x. Latest version is 3.11.x. Anything starting with 3 we can use.  
-
-c) Older version of Python.  
-
-d) All are not correct.
+We are using Python 3.x.x. Latest version is 3.11.x. Anything starting with 3 we can use.  
 
 ---
 ---
@@ -36,13 +30,7 @@ d) None of the above
 
 **Description** 
 
-a) Computer understands only binary files. So, the program text files are converted to binary machine codes by Python interpreter in Python.  
-
-b) Computer programs are written by humans and they are Text files.
-
-c) Both are not correct.
-
-d) It is not correct.  
+Computer programs are written by humans and they are Text files.  
 
 ---
 ---
@@ -59,13 +47,7 @@ d) All of the above
 
 **Description** 
 
-a) To create a computer program of text files we need a Text editor.  
-
-b) Files and File browsers are slightly different. They provide interface with Operating system.
-
-c) Assembler is a computer program that takes in basic instructions and convert them into a pattern of bits that the computer’s processor can use to perform basic operations.
-
-d) All are not correct.
+To create a computer program of text files we need a Text editor.  
 
 ---
 ---
@@ -82,13 +64,7 @@ d) All of the above
 
 **Description** 
 
-a) Vim is a text editor for Unix that comes with Linux, BSD, and macOS.
-
-b) Google chrome is a web browser.
-
-c) Notepad is a text editor in windows.
-
-d) All are not correct.
+Vim is a text editor for Unix that comes with Linux, BSD, and macOS.
 
 ---
 ---
@@ -105,13 +81,7 @@ d) None of the above
 
 **Description** 
 
-a) .py is the extension of Python programs.
-
-b) .txt is the extension of Text files.
-
-c) XML is a general - purpose markup language.
-
-d) It is not correct.
+.py is the extension of Python programs.
 
 ---
 ---
@@ -128,13 +98,9 @@ d) None of the above
 
 **Description** 
 
-a) Ctrl + S is the shortcut key to save something.  
+Ctrl + S is the shortcut key to save something.  
 
-b) Ctrl + V is the shortcut key to paste something.  
-
-c) Ctrl + C is the shortcut key to copy something.  
-
-d) It is not correct.  
+ 
 
 ---
 ---
