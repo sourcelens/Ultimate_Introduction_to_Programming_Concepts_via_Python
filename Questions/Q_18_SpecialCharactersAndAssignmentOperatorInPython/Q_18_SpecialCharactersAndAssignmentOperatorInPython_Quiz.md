@@ -13,13 +13,7 @@ d) None of the above
 
 **Description**  
 
-a) Mostly they will not come single.
-
-b) Most of the special characters in Programming language comes in pairs. Parentheses () Curly Braces {} Square Brackets [] double quotes " " etc. If one is missing the program will not work.
-
-c) Both are not correct.
-
-d) It is not correct.
+Most of the special characters in Programming language comes in pairs. Parentheses () Curly Braces {} Square Brackets [] double quotes " " etc. If one is missing the program will not work.
 
 ---
 ---
@@ -36,13 +30,7 @@ d) Less than operator
 
 **Description**  
 
-a) In Python it represents assignment not equal to.
-
-b) ‘ = ‘ assigns a value to a bag or container (variable) in Python. But in mathematics ‘ = ‘ means that values on both sides are equal.
-
-c) In Python it represents assignment not greater than.  
-
-d) In Python it represents assignment not less than.
+‘ = ‘ assigns a value to a bag or container (variable) in Python. But in mathematics ‘ = ‘ means that values on both sides are equal.
 
 ---
 ---
@@ -55,17 +43,11 @@ b) Executable files
 c) Binary files  
 d) None of the above  
 
-**Answer** b) 
+**Answer** d) 
 
 **Description**  
 
-a) They are not Text files.
-
-b) They are not Text files.
-
-c) They are not Text files.
-
-d) None of the above are text files.  
+None of the above are text files. 
 
 ---
 ---
@@ -82,13 +64,7 @@ d) All of the above
 
 **Description**  
 
-a) All are features of VS code. It is a text editor. It has code coloring and has intellisense. Intellisense means autocompletion feature.
-
-b) All are features of VS code. It is a text editor. It has code coloring and has intellisense. Intellisense means autocompletion feature.
-
-c) All are features of VS code. It is a text editor. It has code coloring and has intellisense. Intellisense means autocompletion feature.
-
-d) All are features of VS code. It is a text editor. It has code coloring and has intellisense. Intellisense means autocompletion feature.
+All are features of VS code. It is a text editor. It has code coloring and has intellisense. Intellisense means autocompletion feature.
 
 ---
 ---
