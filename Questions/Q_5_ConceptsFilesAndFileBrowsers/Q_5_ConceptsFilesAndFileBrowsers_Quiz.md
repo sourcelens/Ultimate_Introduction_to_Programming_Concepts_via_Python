@@ -83,7 +83,7 @@ d) All of the above
 
 **Description** 
 
-a) The programs we are developing are Files. Files are nothing but binary. Everything we see in a computer are different types of files. Every software piece, every data, web pages we are accessing, Python programs like text files, all are files.  
+The programs we are developing are Files. Files are nothing but binary. Everything we see in a computer are different types of files. Every software piece, every data, web pages we are accessing, Python programs like text files, all are files.  
 
 ---
 ---
