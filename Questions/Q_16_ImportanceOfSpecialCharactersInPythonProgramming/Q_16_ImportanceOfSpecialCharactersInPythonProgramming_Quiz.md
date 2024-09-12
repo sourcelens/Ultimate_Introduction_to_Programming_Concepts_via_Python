@@ -13,13 +13,7 @@ d) All of the above
 
 **Description**
 
-a) It is true for a computer program.
-
-b) It is true for a computer program.
-
-c) It is true for a computer program.
-
-d) All of them are true for computer programs.
+All of them are true for computer programs.
 
 ---
 ---
@@ -36,13 +30,7 @@ d) All of the above
 
 **Description**
 
-a) When we are writing a code, we should care about the special characters like commas, dot, brackets, square brackets, colon, semicolon, space.
-
-b) When we are writing a code, we should care about the special characters like commas, dot, brackets, square brackets, colon, semicolon, space 
-
-c) When we are writing a code, we should care about the special characters like commas, dot, brackets, square brackets, colon, semicolon, space 
-
-d) When we are writing a code, we should care about the special characters like commas, dot, brackets, square brackets, colon, semicolon, space 
+When we are writing a code, we should care about the special characters like commas, dot, brackets, square brackets, colon, semicolon, space 
 
 ---
 ---
@@ -59,13 +47,7 @@ d) None of the above
 
 **Description**
 
-a) print () is the function in Python which outputs a value to the monitor.
-
-b) input () is the function in Python which can take input values from the user.
-
-c) Both are not correct.
-
-d) It is not correct.
+input () is the function in Python which can take input values from the user.
 
 ---
 ---
@@ -82,13 +64,7 @@ d) None of the above
 
 **Description**
 
-a) print () is the function in Python which outputs a value to the monitor.
-
-b) input () is the function in Python which can take input values from the user.
-
-c) Both are not correct.
-
-d) It is not correct.
+print () is the function in Python which outputs a value to the monitor.
 
 ---
 ---
@@ -105,13 +81,7 @@ d) None of the above
 
 **Description**
 
-a) Functions are defined blocks of reusable code that perform a specific task. Built-in functions are pre-defined in Python eg. Print, input etc. User-defined functions are functions that you create to perform specific tasks. 
-
-b) Variables are like a bag or container which we can assign some values.
-
-c) All are not correct.
-
-d) It is not correct.
+Functions are defined blocks of reusable code that perform a specific task. Built-in functions are pre-defined in Python eg. Print, input etc. User-defined functions are functions that you create to perform specific tasks. 
 
 ---
 ---
@@ -128,13 +98,7 @@ d) All of the above
 
 **Description**
 
-a) Functions are code written by someone else which takes arguments. Eg:- print (), input () etc.
-
-b) Variables are like a bag or container which we can assign some values and can serve as a piece of memory while writing programs in Python.
-
-c) Subroutine is another name for Function.
-
-d) All are not correct.
+Variables are like a bag or container which we can assign some values and can serve as a piece of memory while writing programs in Python.
 
 ---
 ---
@@ -151,13 +115,7 @@ d) Both a) & b)
 
 **Description**
 
-a) Functions are reusable blocks of code designed to perform a specific task, procedure. In Python, there are both built-in functions that come with the Python standard library and user- defined functions that you can write yourself.
-
-b) Functions are reusable blocks of code designed to perform a specific task, procedure. In Python, there are both built-in functions that come with the Python standard library and user- defined functions that you can write yourself.
-
-c) Variables are like a bag or container which we can assign some values and can serve as a piece of memory while writing programs in Python.
-
-d) Functions are reusable blocks of code designed to perform a specific task, procedure. In Python, there are both built-in functions that come with the Python standard library and user- defined functions that you can write yourself.
+Functions are reusable blocks of code designed to perform a specific task, procedure. In Python, there are both built-in functions that come with the Python standard library and user- defined functions that you can write yourself.
 
 ---
 ---
