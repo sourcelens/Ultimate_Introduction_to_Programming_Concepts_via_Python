@@ -13,13 +13,7 @@ d) All of the above
 
 **Description** 
 
-a) It is basically, text.     
-
-b) It is created by humans to talk to computer.  
-
-c) It is like English.  
-
-d) All the statements are true for programming languages.  
+All the statements are true for programming languages.  
 
 ---
 ---
@@ -36,13 +30,8 @@ d) All of the above
 
 **Description**
 
-a) A Programming language is a system of notations for writing computer programs.  
-
-b) It is not a set of instructions for humans.  
-
-c) It is not correct.  
-
-d) All are not correct.  
+A Programming language is a system of notations for writing computer programs.  
+  
 
 ---
 ---
@@ -59,13 +48,9 @@ d) All of the above
 
 **Description**  
 
-a) Programming languages are not created by computers.  
+Programming languages are created by humans.  
 
-b) Programming languages are created by humans.  
-
-c) Programming languages are not created by robots.  
-
-d) All of them are not correct.  
+  
 
 ---
 ---
@@ -82,13 +67,9 @@ d) None of the above
 
 **Description**  
 
-a) Humans created Programming languages to convert human readable programs/instructions into computer readable machine code/instructions.  
+Humans created Programming languages to convert human readable programs/instructions into computer readable machine code/instructions.  
 
-b) Not to make computers more intelligent.  
-
-c) Both are not correct.  
-
-d) It is not correct.  
+  
 
 ---
 ---
@@ -105,13 +86,9 @@ d) All of the above
 
 **Description**  
 
-a) Decimal numbers are 10 based numbers that we normally use. Computers cannot understand that.  
+Computer only understands Binary instructions comprising Zero and One. So, Programming languages create Binary instructions for CPU.  
 
-b) Computer only understands Binary instructions comprising Zero and One. So, Programming languages create Binary instructions for CPU.  
-
-c) Hexadecimal numbers are 16 based numbers, 0 to 9 and A to F. Computers cannot understand that.  
-
-d) All are not correct.  
+  
 
 ---
 ---
@@ -128,13 +105,9 @@ d) All of the above
 
 **Description**
 
-a) It is not correct.  
+Python is the Programming language which is more similar to English than others.  
 
-b) It is not correct.
-
-c) Python is the Programming language which is more similar to English than others.  
-
-d) All are not correct.  
+ 
 
 ---
 ---
