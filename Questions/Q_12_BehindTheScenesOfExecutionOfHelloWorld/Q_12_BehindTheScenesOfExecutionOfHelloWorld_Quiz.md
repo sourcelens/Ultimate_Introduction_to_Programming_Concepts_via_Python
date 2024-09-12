@@ -99,7 +99,7 @@ d) The program is not responding
 
 **Description**  
 
-a) The empty line with cursor indicates that the program is running.
+The empty line with cursor indicates that the program is running.
 
 ---
 ---
