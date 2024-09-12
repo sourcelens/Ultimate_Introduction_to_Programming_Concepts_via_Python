@@ -13,13 +13,7 @@ d) All of the above
 
 **Description**
 
-a) Visual studio code is using a shell behind the scene to execute a file.  
-
-b) Notepad is the simplest text editor in an Operating system, which we are used to create Text files.
-
-c) Web browser is an application for accessing websites and the internet.
-
-d) All are not correct.
+Visual studio code is using a shell behind the scene to execute a file.  
 
 ---
 ---
@@ -36,13 +30,7 @@ d) None of the above
 
 **Description**
 
-a) Text editors like VS Code, Notepad, or other available software in the operating system can be used to create program files.  
-
-b) Text editors like VS Code, Notepad, or other available software in the operating system can be used to create program files.  
-
-c) Text editors like VS Code, Notepad, or other available software in the operating system can be used to create program files.  
-
-d) It is not correct.  
+Text editors like VS Code, Notepad, or other available software in the operating system can be used to create program files.  
 
 ---
 ---
@@ -59,13 +47,7 @@ d) All of the above
 
 **Description**
 
-a) It is not correct. CMD is the place from which we can start other programs.
-
-b) "python.exe" is the executable file on Windows systems for the Python interpreter. When you run "python.exe," you're essentially starting the Python interpreter, which then executes your Python code. 
-
-c) It is not correct.
-
-d) All are not correct.  
+"python.exe" is the executable file on Windows systems for the Python interpreter. When you run "python.exe," you're essentially starting the Python interpreter, which then executes your Python code. 
 
 ---
 ---
@@ -82,13 +64,7 @@ d) None of the above
 
 **Description**
 
-a) filename.py is the program file we write and python.exe is the executable which create the binary machine code. So, both are involved in a Python program. 
-
-b) filename.py is the program file we write and python.exe is the executable which create the binary machine code. So, both are involved in a Python program. 
-
-c) filename.py is the program file we write and python.exe is the executable which create the binary machine code. So, both are involved in a Python program. 
-
-d) It is not correct.  
+filename.py is the program file we write and python.exe is the executable which create the binary machine code. So, both are involved in a Python program.   
 
 ---
 ---
