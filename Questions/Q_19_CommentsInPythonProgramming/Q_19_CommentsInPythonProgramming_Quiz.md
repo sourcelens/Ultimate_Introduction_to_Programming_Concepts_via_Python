@@ -13,13 +13,7 @@ d) Both a) & b)
 
 **Description**  
 
-a) Comments are part of the program or lines inside the program which explains the program itself, but not executed. We can write anything in comments which explains the program.  
-
-b) Comments are part of the program or lines inside the program which explains the program itself, but not executed. We can write anything in comments which explains the program.
-
-c) Comments are not graphics inside the program.  
-
-d) Comments are part of the program or lines inside the program which explains the program itself,but not executed. We can write anything in comments which explains the program. It is intended for human readers rather than the computer to understand the purpose or functionality of certain parts of the code. Comments are essential for improving code readability, explaining complex logic, documenting assumptions,or providing context for future developers working on the codebase.
+Comments are part of the program or lines inside the program which explains the program itself,but not executed. We can write anything in comments which explains the program. It is intended for human readers rather than the computer to understand the purpose or functionality of certain parts of the code. Comments are essential for improving code readability, explaining complex logic, documenting assumptions,or providing context for future developers working on the codebase.
 
 ---
 ---
@@ -36,13 +30,7 @@ d) To add videos
 
 **Description**  
 
-a) The main purpose of a comment is to explain the program itself. It can be any text. It is like a decoration to the program.
-
-b) It is not for displaying graphics.
-
-c) It is not to print something.
-
-d) It is not for adding videos.  
+The main purpose of a comment is to explain the program itself. It can be any text. It is like a decoration to the program. 
 
 ---
 ---
@@ -59,13 +47,7 @@ d) None of the above
 
 **Description**  
 
-a) Comment line explains what is the purpose of the next line of the code.
-
-b) Comment line explains what is the purpose of the next line of the code.
-
-c) Comment line explains what is the purpose of the next line of the code.
-
-d) It is not correct.  
+Comment line explains what is the purpose of the next line of the code. 
 
 ---
 ---
@@ -82,13 +64,7 @@ d) All of the above
 
 **Description**  
 
-a) This is to write a comment in C language.  
-
-b) Every line should start with a ‘ #  ‘ symbol to get a single line comment in Python.
-
-c) This is to write a comment in Visual basic.
-
-d) It is not correct.
+Every line should start with a ‘ #  ‘ symbol to get a single line comment in Python.
 
 ---
 ---
@@ -105,13 +81,7 @@ d) None of the above
 
 **Description**  
 
-a) Triple quote is used to write multiline comments in Python.  
-
-b) This is used to write multiline comments in language C.  
-
-c) Both are not correct.  
-
-d) It is not correct.  
+Triple quote is used to write multiline comments in Python.   
 
 ---
 ---
