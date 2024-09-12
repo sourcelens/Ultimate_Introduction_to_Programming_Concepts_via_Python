@@ -13,13 +13,7 @@ d) All of the above
 
 **Description**
 
-a) Python is supported in Windows.
-
-b) Python is supported in Linux.
-
-c) Python is supported in Mac.
-
-d) Python is supported in all the three Operating systems.
+Python is supported in all the three Operating systems.
 
 ---
 ---
