@@ -13,13 +13,7 @@ d) All of the above
 
 **Description** 
 
-a)  It is an online IDE. Some of the online IDEs are stable while others are not.
-
-b)  It is an online IDE. Some of the online IDEs are stable while others are not.
-
-c)  It is an online IDE. Some of the online IDEs are stable while others are not.
-
-d) All of them are online IDEs. Some of the online IDEs are stable while others are not.  
+All of them are online IDEs. Some of the online IDEs are stable while others are not.  
 
 ---
 ---
