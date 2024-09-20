@@ -5,7 +5,7 @@
 ```
 raintoday = 1
 if (raintoday == 1):
-    print ("Take umbrella"
+    print ("Take umbrella")
 ```
 
 1 : In the above program what will be the output?  
