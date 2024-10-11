@@ -216,7 +216,7 @@ for f in fruits:
             print (str(n) + " just for fruit " + f + " only")
 ```
 
-8) In the above program how many times Line 3 will be executed?  
+8 : In the above program how many times Line 3 will be executed?  
 
 a) 12   
 b) 11  
