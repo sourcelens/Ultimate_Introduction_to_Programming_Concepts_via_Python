@@ -60,11 +60,11 @@ b) Google chrome
 c) Notepad  
 d) All of the above  
 
-**Answer** a) 
+**Answer** c) 
 
 **Description** 
 
-Vim is a text editor for Unix that comes with Linux, BSD, and macOS.
+Notepad is a text editor in windows.
 
 ---
 ---
